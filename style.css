@@ -6,7 +6,7 @@
 --font: "Nunito Sans", sans-serif;
 }
 body{    background-color: var(--bg-color);
-    color: var(--secondery-color);
+    color: var(--primary-color);
     font-family: var(--font);
     height: 100vh;
     margin: 0;
@@ -41,7 +41,7 @@ footer {
     align-items: center;
     justify-content: center;
     background-color: var(--primary-color);
-    color: var(--bg-color);
+    color: var(--secondery-color);
     width: 100%;
     height: 3rem;
     margin-top: 2rem;
